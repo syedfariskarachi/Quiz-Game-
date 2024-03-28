@@ -1,2 +1,2 @@
 # Quiz-Game-
-This is a quiz game crested by TYPESCRIPT
+This is a quiz game created by TYPESCRIPT
