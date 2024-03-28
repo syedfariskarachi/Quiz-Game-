@@ -22,7 +22,7 @@ if (ask.ask1 === "YES") {
     let question2 = await inquirer.prompt({
       message: "What is the result of multiplying a matrix by its inverse?",
       type: "list",
-      name: "mcq2",
+      name: "mcq2", 
       choices: [
         "A) The original matrix",
         "B) A matrix with all elements as zeros",
