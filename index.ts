@@ -1,4 +1,4 @@
-import { link } from "fs";
+#! /usr/bin/env node
 import inquirer from "inquirer";
 console.log("Welcome in Quiz Game");
 let ask = await inquirer.prompt({
